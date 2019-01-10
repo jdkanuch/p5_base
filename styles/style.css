@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    width: 50%;
+    color: #444;
+    font-family: "Trebuchet MS";
+    margin: 60px auto;
+}
+p{
+    text-align: center;
+    font-family: "Trebuchet MS";
+    color: #444;
+}
+#content-div{
+
+    width: 50%;
+    margin: 0 auto;
+
+}
